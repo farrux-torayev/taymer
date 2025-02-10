@@ -30,7 +30,7 @@ const App = () => {
   }
 
   return (
-    <div className="flex flex-col items-center p-4 border rounded-lg shadow-lg w-64">
+    <div className="flex m-auto flex-col w-[400px] items-center p-4 border rounded-lg shadow-lg ">
       <input
         type="number"
         value={inputValue}
